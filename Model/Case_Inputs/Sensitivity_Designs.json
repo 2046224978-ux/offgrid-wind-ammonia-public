@@ -1,0 +1,477 @@
+[
+  {
+    "witness": "Design_00",
+    "factor": null,
+    "multiplier": 1.0,
+    "annual_total_CNY": 870204590.6766101,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203059753.13367245,
+      "battery_capex": 12651397.880897641,
+      "hydrogen_capex": 18612751.93022492,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186096662.88835445,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286234.33946097514,
+    "LCOA_CNY_per_t_liquid_NH3": 3040.1823635673622,
+    "lower_bound_CNY_per_t_liquid_NH3": 3034.497507775968,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_01",
+    "factor": "wind_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 811410494.313801,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 453445485.80583096,
+      "electrolyzer_capex": 198535255.2987605,
+      "battery_capex": 11751606.814671986,
+      "hydrogen_capex": 17308275.11061074,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 171439104.27986044,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 296276.9808325399,
+    "LCOA_CNY_per_t_liquid_NH3": 2738.6889525933916,
+    "lower_bound_CNY_per_t_liquid_NH3": 2735.216926229784,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_02",
+    "factor": "wind_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 925398373.1499655,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 380723096.57282037,
+      "electrolyzer_capex": 212712090.68562204,
+      "battery_capex": 11889462.914209533,
+      "hydrogen_capex": 23088889.332194116,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 199483501.24788332,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 279036.8875315562,
+    "LCOA_CNY_per_t_liquid_NH3": 3316.401574488292,
+    "lower_bound_CNY_per_t_liquid_NH3": 3312.3526132747706,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_03",
+    "factor": "wind_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 848826391.8077728,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 440612123.00000554,
+      "electrolyzer_capex": 200906128.5250287,
+      "battery_capex": 12198386.650901305,
+      "hydrogen_capex": 18147533.16950614,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 180742341.4259662,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 293591.5531477413,
+    "LCOA_CNY_per_t_liquid_NH3": 2891.181243830356,
+    "lower_bound_CNY_per_t_liquid_NH3": 2886.818023919703,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_04",
+    "factor": "wind_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 885976082.4178212,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 380723096.57282037,
+      "electrolyzer_capex": 212692399.93273926,
+      "battery_capex": 11889463.02243417,
+      "hydrogen_capex": 21762148.99367136,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 189651373.3575108,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 278623.8565070685,
+    "LCOA_CNY_per_t_liquid_NH3": 3179.8285097505445,
+    "lower_bound_CNY_per_t_liquid_NH3": 3175.5324390644114,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_05",
+    "factor": "electrolyzer_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 823453020.812111,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 393556459.3786457,
+      "electrolyzer_capex": 217987317.03063524,
+      "battery_capex": 11386861.95051539,
+      "hydrogen_capex": 23214690.98000356,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 175508139.30446246,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 285143.8281247793,
+    "LCOA_CNY_per_t_liquid_NH3": 2887.851461585088,
+    "lower_bound_CNY_per_t_liquid_NH3": 2885.5734754588298,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_06",
+    "factor": "electrolyzer_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 911904129.28704,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 427778760.19418013,
+      "electrolyzer_capex": 195603550.5903201,
+      "battery_capex": 12645166.669831472,
+      "hydrogen_capex": 15802379.937878437,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 195249232.7172958,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286910.8514228297,
+    "LCOA_CNY_per_t_liquid_NH3": 3178.3535713786496,
+    "lower_bound_CNY_per_t_liquid_NH3": 3172.8538697591302,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_07",
+    "factor": "electrolyzer_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 845542884.0029618,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 393556459.3786457,
+      "electrolyzer_capex": 217989677.31817642,
+      "battery_capex": 11386861.930521281,
+      "hydrogen_capex": 23503256.19862981,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 180066016.98770595,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 285195.2587944145,
+    "LCOA_CNY_per_t_liquid_NH3": 2964.7859069511346,
+    "lower_bound_CNY_per_t_liquid_NH3": 2961.935814825061,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_08",
+    "factor": "electrolyzer_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 892154293.5159982,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 423500972.59223837,
+      "electrolyzer_capex": 198094051.9087469,
+      "battery_capex": 12958716.999038024,
+      "hydrogen_capex": 16842722.92193891,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 190989383.61213085,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286796.1633068683,
+    "LCOA_CNY_per_t_liquid_NH3": 3110.7609084763258,
+    "lower_bound_CNY_per_t_liquid_NH3": 3104.109216187304,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_09",
+    "factor": "synthesis_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 801103996.0550567,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 393556459.3786457,
+      "electrolyzer_capex": 197580977.3679467,
+      "battery_capex": 11386861.929463265,
+      "hydrogen_capex": 14599963.84734935,
+      "synthesis_capex": 184224627.7254486,
+      "fixed_om": 171873457.26117364,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 275777.5773707865,
+    "LCOA_CNY_per_t_liquid_NH3": 2904.8917018295583,
+    "lower_bound_CNY_per_t_liquid_NH3": 2902.478848760631,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_10",
+    "factor": "synthesis_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 950988431.5245404,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 444889910.60194737,
+      "electrolyzer_capex": 211205588.15891603,
+      "battery_capex": 13149315.200692633,
+      "hydrogen_capex": 23812865.25197985,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 203086179.65560445,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 300368.26507838647,
+    "LCOA_CNY_per_t_liquid_NH3": 3166.0749223169864,
+    "lower_bound_CNY_per_t_liquid_NH3": 3159.5644162774397,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_11",
+    "factor": "synthesis_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 833814213.3635273,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 402112034.58252937,
+      "electrolyzer_capex": 200290114.71954408,
+      "battery_capex": 12342511.012671394,
+      "hydrogen_capex": 16619719.665815938,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 178506622.08837536,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 280353.9508085805,
+    "LCOA_CNY_per_t_liquid_NH3": 2974.1482542289455,
+    "lower_bound_CNY_per_t_liquid_NH3": 2969.2138028300783,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_12",
+    "factor": "synthesis_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 921985416.3989872,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 436334335.3980638,
+      "electrolyzer_capex": 211058587.33950877,
+      "battery_capex": 12170487.397090659,
+      "hydrogen_capex": 22949133.103626408,
+      "synthesis_capex": 184224627.7254486,
+      "fixed_om": 197190564.42466524,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 297213.8027048127,
+    "LCOA_CNY_per_t_liquid_NH3": 3102.094882567369,
+    "lower_bound_CNY_per_t_liquid_NH3": 3097.8285141944234,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_13",
+    "factor": "catalyst_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 865541905.8318666,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203060621.48632115,
+      "battery_capex": 12651397.880897395,
+      "hydrogen_capex": 18641043.272281837,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186101356.88447696,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286251.7590937333,
+    "LCOA_CNY_per_t_liquid_NH3": 3023.7086003319355,
+    "lower_bound_CNY_per_t_liquid_NH3": 3017.93019468119,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_14",
+    "factor": "catalyst_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 879374289.4289315,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 419223184.99029654,
+      "electrolyzer_capex": 203128809.28719682,
+      "battery_capex": 12601798.914876414,
+      "hydrogen_capex": 18776308.613217387,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 187194697.49329102,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 287718.0324745899,
+    "LCOA_CNY_per_t_liquid_NH3": 3056.3753055922707,
+    "lower_bound_CNY_per_t_liquid_NH3": 3050.917466937347,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_15",
+    "factor": "catalyst_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 867957798.0089105,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203061752.4293259,
+      "battery_capex": 12651397.880901475,
+      "hydrogen_capex": 18709606.81804163,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186112732.6975197,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286275.0876146055,
+    "LCOA_CNY_per_t_liquid_NH3": 3031.901257078257,
+    "lower_bound_CNY_per_t_liquid_NH3": 3026.144177333167,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_16",
+    "factor": "catalyst_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 872652335.5182345,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203061789.96092778,
+      "battery_capex": 12653774.487824546,
+      "hydrogen_capex": 18709710.691971138,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186113186.07339668,
+      "catalyst_capex": 23459971.4049774
+    },
+    "annual_liquid_NH3_component_t": 286278.01917955565,
+    "LCOA_CNY_per_t_liquid_NH3": 3048.2687354731925,
+    "lower_bound_CNY_per_t_liquid_NH3": 3042.7024850818025,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_17",
+    "factor": "hydrogen_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 900625617.7408817,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 427778760.19418013,
+      "electrolyzer_capex": 216079911.2478854,
+      "battery_capex": 12502600.730492644,
+      "hydrogen_capex": 29021429.198601518,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 192823300.2802768,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 297806.5830024191,
+    "LCOA_CNY_per_t_liquid_NH3": 3024.1964722907614,
+    "lower_bound_CNY_per_t_liquid_NH3": 3018.9632923239624,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_18",
+    "factor": "hydrogen_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 858782776.382352,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 410667609.78641295,
+      "electrolyzer_capex": 197849884.84571648,
+      "battery_capex": 12055269.687505685,
+      "hydrogen_capex": 14432463.452360764,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 183592602.93490952,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 281570.7178115933,
+    "LCOA_CNY_per_t_liquid_NH3": 3049.971897138065,
+    "lower_bound_CNY_per_t_liquid_NH3": 3045.6396424685695,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_19",
+    "factor": "hydrogen_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 889331536.1740324,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 423500972.59223837,
+      "electrolyzer_capex": 210879829.5780187,
+      "battery_capex": 12147315.237731675,
+      "hydrogen_capex": 24220686.512496423,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 190342743.72258165,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 293356.1603397719,
+    "LCOA_CNY_per_t_liquid_NH3": 3031.576139883983,
+    "lower_bound_CNY_per_t_liquid_NH3": 3027.3941200810477,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_20",
+    "factor": "hydrogen_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 866676129.550274,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 200488072.6866387,
+      "battery_capex": 12244880.662488377,
+      "hydrogen_capex": 16433090.201825976,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 185383071.45995206,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 284615.8877460746,
+    "LCOA_CNY_per_t_liquid_NH3": 3045.072910067113,
+    "lower_bound_CNY_per_t_liquid_NH3": 3040.283716376711,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_21",
+    "factor": "battery_capex",
+    "multiplier": 0.8,
+    "annual_total_CNY": 867000535.4025494,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203057189.91438684,
+      "battery_capex": 11840740.051004807,
+      "hydrogen_capex": 18590539.036499657,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 185509620.8927478,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286179.4135059731,
+    "LCOA_CNY_per_t_liquid_NH3": 3029.569893868181,
+    "lower_bound_CNY_per_t_liquid_NH3": 3026.9119788725693,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_22",
+    "factor": "battery_capex",
+    "multiplier": 1.2,
+    "annual_total_CNY": 873341512.5959176,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203063302.5109554,
+      "battery_capex": 13057915.099307297,
+      "hydrogen_capex": 18727374.391789746,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186669545.35650483,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286309.8650047024,
+    "LCOA_CNY_per_t_liquid_NH3": 3050.3367831268183,
+    "lower_bound_CNY_per_t_liquid_NH3": 3041.8382558580606,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_23",
+    "factor": "battery_capex",
+    "multiplier": 0.9,
+    "annual_total_CNY": 869424083.424902,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203063268.7626652,
+      "battery_capex": 13057915.099310767,
+      "hydrogen_capex": 18727374.391787544,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 185950650.88403988,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286307.434429781,
+    "LCOA_CNY_per_t_liquid_NH3": 3036.6800818723923,
+    "lower_bound_CNY_per_t_liquid_NH3": 3030.7039408833853,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  },
+  {
+    "witness": "Design_24",
+    "factor": "battery_capex",
+    "multiplier": 1.1,
+    "annual_total_CNY": 871568936.9990896,
+    "annual_factor_slopes_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203061746.75265816,
+      "battery_capex": 12651397.880897798,
+      "hydrogen_capex": 18709606.818044316,
+      "synthesis_capex": 184224627.72544858,
+      "fixed_om": 186344904.0136999,
+      "catalyst_capex": 23459971.404977396
+    },
+    "annual_liquid_NH3_component_t": 286275.98666539084,
+    "LCOA_CNY_per_t_liquid_NH3": 3044.505922942846,
+    "lower_bound_CNY_per_t_liquid_NH3": 3038.2875868405217,
+    "feasible_set_sha256": "c9cf9aac2d8d3f4f294939c6c31a519ea29f6467a834b05e14c9723d5d289422"
+  }
+]

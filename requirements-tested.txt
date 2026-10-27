@@ -1,0 +1,6 @@
+# Packaging audit environment: Windows, Python 3.13.2.
+numpy==2.4.0
+pandas==2.3.3
+scipy==1.16.3
+openpyxl==3.1.5
+highspy==1.11.0

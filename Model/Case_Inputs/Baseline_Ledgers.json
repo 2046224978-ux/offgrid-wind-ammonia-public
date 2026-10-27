@@ -1,0 +1,174 @@
+{
+  "Ru+ALK": {
+    "route": "Ru+ALK",
+    "baseline_LCOA_CNY_per_t": 3040.1823635673622,
+    "annual_liquid_NH3_component_t": 286234.33946097514,
+    "annual_response_CNY": {
+      "wind_capex": 414945397.3883548,
+      "electrolyzer_capex": 203059753.13367245,
+      "synthesis_capex": 184224627.72544858,
+      "battery_capex": 12651397.880897641,
+      "hydrogen_capex": 18612751.93022492,
+      "catalyst_capex": 23459971.404977396
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 13250691.213034391,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 286267.02657513757,
+    "baseline_solver_gap": 0.0018699061804713431
+  },
+  "Ru+AEM": {
+    "route": "Ru+AEM",
+    "baseline_LCOA_CNY_per_t": 3732.800624676287,
+    "annual_liquid_NH3_component_t": 296306.03905147075,
+    "annual_response_CNY": {
+      "wind_capex": 444889910.60194737,
+      "electrolyzer_capex": 417636492.36430824,
+      "synthesis_capex": 184224627.72544858,
+      "battery_capex": 10784485.650397439,
+      "hydrogen_capex": 11855556.172077894,
+      "catalyst_capex": 23459971.404977396
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 13200323.747529268,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "fixed_om_ratio": 0.05,
+    "ledger_source": "accepted 5% baseline reoptimization",
+    "baseline_gross_NH3_t": 296339.8763239089,
+    "baseline_solver_gap": 3.925793145439359e-05
+  },
+  "Ru+PEM": {
+    "route": "Ru+PEM",
+    "baseline_LCOA_CNY_per_t": 4211.481869059366,
+    "annual_liquid_NH3_component_t": 303389.1253770159,
+    "annual_response_CNY": {
+      "wind_capex": 487667786.62136537,
+      "electrolyzer_capex": 545268575.51267,
+      "synthesis_capex": 184224627.72544858,
+      "battery_capex": 10728691.244874407,
+      "hydrogen_capex": 11618662.52700161,
+      "catalyst_capex": 23459971.404977396
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 14749485.758743763,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 303423.77151694277,
+    "baseline_solver_gap": 1.1083881656641649e-05
+  },
+  "Ru+SOEC": {
+    "route": "Ru+SOEC",
+    "baseline_LCOA_CNY_per_t": 6304.651273761675,
+    "annual_liquid_NH3_component_t": 340517.72452412324,
+    "annual_response_CNY": {
+      "wind_capex": 560390175.854376,
+      "electrolyzer_capex": 1252582967.6621473,
+      "synthesis_capex": 184224627.72544858,
+      "battery_capex": 102534088.52433977,
+      "hydrogen_capex": 9933871.77029803,
+      "catalyst_capex": 23459971.404977396
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 13719802.717853785,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 340556.6106401526,
+    "baseline_solver_gap": 0.017989147342301497
+  },
+  "Fe+ALK": {
+    "route": "Fe+ALK",
+    "baseline_LCOA_CNY_per_t": 3343.5493692246023,
+    "annual_liquid_NH3_component_t": 352198.1362291668,
+    "annual_response_CNY": {
+      "wind_capex": 560390175.854376,
+      "electrolyzer_capex": 259208845.59715375,
+      "synthesis_capex": 186382017.66373587,
+      "battery_capex": 45843403.94931542,
+      "hydrogen_capex": 111446100.94309968,
+      "catalyst_capex": 40708.24394608782
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 14280603.979484558,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 352240.35716738063,
+    "baseline_solver_gap": 0.0018189254226270712
+  },
+  "Fe+AEM": {
+    "route": "Fe+AEM",
+    "baseline_LCOA_CNY_per_t": 4059.1330309881378,
+    "annual_liquid_NH3_component_t": 355386.9465268634,
+    "annual_response_CNY": {
+      "wind_capex": 594612476.6699104,
+      "electrolyzer_capex": 508735192.607677,
+      "synthesis_capex": 186382017.66373587,
+      "battery_capex": 43780358.05957699,
+      "hydrogen_capex": 94875147.32488833,
+      "catalyst_capex": 40708.24394608782
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 14136992.85947156,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "fixed_om_ratio": 0.05,
+    "ledger_source": "accepted 5% baseline reoptimization",
+    "baseline_gross_NH3_t": 355429.5497344554,
+    "baseline_solver_gap": 2.619339298903789e-05
+  },
+  "Fe+PEM": {
+    "route": "Fe+PEM",
+    "baseline_LCOA_CNY_per_t": 4542.8934931401145,
+    "annual_liquid_NH3_component_t": 352512.4934198406,
+    "annual_response_CNY": {
+      "wind_capex": 637390352.6893284,
+      "electrolyzer_capex": 631383137.6514192,
+      "synthesis_capex": 186382017.66373587,
+      "battery_capex": 43629007.634019375,
+      "hydrogen_capex": 86696549.9571512,
+      "catalyst_capex": 40708.24394608782
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 15904938.767991066,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 352554.7520426818,
+    "baseline_solver_gap": 0.00023833220655533616
+  },
+  "Fe+SOEC": {
+    "route": "Fe+SOEC",
+    "baseline_LCOA_CNY_per_t": 6640.647863040765,
+    "annual_liquid_NH3_component_t": 370026.69069637003,
+    "annual_response_CNY": {
+      "wind_capex": 680168228.7087464,
+      "electrolyzer_capex": 1396248115.7598577,
+      "synthesis_capex": 186382017.66373587,
+      "battery_capex": 119855049.91022463,
+      "hydrogen_capex": 60112527.696532086,
+      "catalyst_capex": 40708.24394608782
+    },
+    "discount_rate": 0.08,
+    "design_fixed": true,
+    "dispatch_fixed": true,
+    "residual_annual_CNY": 14410304.857852936,
+    "synthesis_scope": "Process equipment and immediate terminal package; catalyst excluded",
+    "catalyst_scope": "Annualized catalyst inventory and replacement, scaled together",
+    "baseline_gross_NH3_t": 370071.0488926189,
+    "baseline_solver_gap": 0.0146343761216301
+  }
+}

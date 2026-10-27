@@ -1,0 +1,22 @@
+{
+  "Model/Ammonia_MILP.py": "3a05962f7c0e6e1dbf12e02812c1c438bfd71dba0e8fe00b6b7cdbc281adbb00",
+  "Model/requirements.txt": "5a7cbae377fee4568a0db72ee32dd799e73c3ea0cab1b124c30ea8b8d98da239",
+  "Model/Resource_Inputs.xlsx": "f2941fbfab3a57040a86fc66247d1b6d64acf195a8acb697d3bd3e9213d2894c",
+  "Plotting/Data/Fig08_LAEC_Sampled_Results.csv": "e71c331230d968442f89c3321f4145eadaf4b63807838d1594cb5f367abc71e1",
+  "Model/Cases/01_Baseline.py": "d0959b19f8449dc2dc9b95bc0832075ead753ea6a2e6226488fc7d7c51cad802",
+  "Model/Cases/02_Fixed_Production.py": "8809549fb721fa4182139f3c7653d373890da7f170ecc8e6f87f27d9e42dac17",
+  "Model/Cases/03_Fixed_Wind.py": "502192a09028ca6da250fdcc20b748ad8bce1913e8968957402110b3e0f45180",
+  "Model/Cases/04_Investment_Sensitivity.py": "08f839df31f3a70df465f9d62a1827611a443fe36da47be50265b707693df236",
+  "Model/Cases/05_Cost_Uncertainty.py": "274479048176a31aea01b7a063ae5a13a2db3e01c890d4fb7b2f6e81d19c5539",
+  "Model/Cases/06_LAEC_Utilisation.py": "60d1854e6ac95e75caefedb7e1db0aef8fafa2deb3def5b4ad58722698e802fe",
+  "Model/Cases/07_PEM_Cost_Competition.py": "9e748e3f8919f5c9b8ec6d9085478978491c0da44f22c9438e5aefc0edf4fa08",
+  "Model/Cases/08_PEM_Reduced_Cost_LAEC.py": "1ad84600c2fef8a78ae8be65eb55de74b5e5543570c2dc830db717a63b62d5ca",
+  "Model/Cases/09_Green_Coal_Competition.py": "a8e06736e49fcce172961c4d06bf0ffab63ffa34dccba21f0db2ddd6a79bd5ca",
+  "Model/Cases/10_Weather_Years.py": "9ac7c85df3655b81e4b15500ad1d3eafd17469462b0ac25c22af968553806321",
+  "Model/Cases/11_Regional_Resources.py": "2a9241a79248dbfb399b54c229dc542804928fed4212a44fbaf9b6b5de201248",
+  "Model/Cases/12_Wind_PV_Colocation.py": "a1c0c04be52390479b4f8dd1a188b86f1c2f5b2313de7457167ba82a163422b3",
+  "Model/Case_Inputs/Baseline_Ledgers.json": "56c9e50e9c23ce6d8572ff13e2f8d1d6e4b20e8340b5a34de7a8c8715ce6c0a2",
+  "Model/Case_Inputs/Carbon_Price_Paths.csv": "da3d3ded052eb83ddffc5486cdf86fb2410c14e7035ddd38d583624da7e25944",
+  "Model/Case_Inputs/Cost_Path_Anchors.csv": "6e5f148b2fabbe5e6e11568bc6a63064fc1aa378159a41fe1c7f978353061338",
+  "Model/Case_Inputs/Sensitivity_Designs.json": "a0a63a06f625db589b59a650909af509828d109ce4dc71f549d96e4ba6f2df4f"
+}
